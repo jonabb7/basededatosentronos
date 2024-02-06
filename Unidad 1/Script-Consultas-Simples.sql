@@ -152,6 +152,5 @@ Select * from Products
 Select ProductName as 'Nombre de producto',
 UnitsInStock as existencia, UnitPrice from Products
 
-Select ProductName as 'Nombre de producto',
-UnitsInStock as existencia, UnitPrice from Products
+
 
